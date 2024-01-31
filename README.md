@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - 👽 OVNI: ...
 ---
 
+<a href="https://app.daily.dev/cesarosvaldoecheverriarodriguez"><img src="https://api.daily.dev/devcards/b55e6098186242728af67e8efb04eed8.png?r=c9g" width="400" alt="Cesar Osvaldo Echeverria Rodriguez's Dev Card"/></a>
